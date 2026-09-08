@@ -1,21 +1,24 @@
 # Privacy Policy for Stumble
 
-**Last updated: 5 September 2026**
+**Last updated: 7 September 2026**
 
 Stumble is a walking-tour app for exploring Manhattan landmarks. This policy
 explains what the app does with your information.
 
 The short version: **Stumble does not have a server, does not have accounts, and
 does not collect or transmit your personal information.** Everything the app
-knows about you stays on your device.
+knows about you stays on your device. The single exception is if you choose to
+email us a landmark recommendation, which is described below.
 
 ---
 
 ## Information we collect
 
-**We do not collect any personal information.** Stumble has no user accounts, no
-analytics, no advertising, and no third-party tracking software. We operate no
-server that receives your data.
+**The app collects no personal information automatically.** Stumble has no user
+accounts, no analytics, no advertising, and no third-party tracking software. We
+operate no server that receives your data. The only information we ever receive
+is what you deliberately choose to email us, described under Landmark
+recommendations below.
 
 ### Location
 
@@ -42,6 +45,20 @@ If you allow notifications, Stumble sends **local notifications only** —
 messages generated on your device by the app itself. There is no push
 notification service, no device token is registered with us or any third party,
 and no server can send you a message.
+
+### Landmark recommendations
+
+Stumble includes an optional form for suggesting a landmark we should add. The
+app does **not** send this by itself. Tapping the button opens your own email
+app with the details pre-filled in a message addressed to
+**stumblenyc@gmail.com**. Nothing is transmitted unless you review that message
+and send it yourself, and you can edit or discard it at that point.
+
+If you do send it, we receive what you would expect from any email you send us:
+the message contents and the email address you sent it from. We use that only to
+consider the suggestion and to reply to you. It is not added to a mailing list,
+not used for advertising, and not shared with anyone. You can ask us to delete
+your message at any time by writing to the same address.
 
 ### Information stored on your device
 
@@ -80,21 +97,25 @@ information back from them about you.
 ## Children's privacy
 
 Stumble is not directed at children under 13, and we do not knowingly collect
-information from anyone. Because the app collects no personal information at
-all, there is nothing for us to delete on request.
+information from children. The app gathers nothing automatically from anyone. If
+a child has emailed us a landmark recommendation and a parent or guardian would
+like it deleted, write to the address below and we will remove it.
 
 ---
 
 ## Your rights
 
-Because Stumble stores nothing about you on any server, there is no account to
-close, no data export to request, and no record for us to erase. You have full
-control of the only copy of your data: uninstalling the app deletes it.
+Stumble keeps no account for you and stores nothing about you on any server, so
+there is no account to close and no profile to export. You hold the only copy of
+your app data: uninstalling the app deletes it.
+
+If you have emailed us a landmark recommendation, that message sits in our inbox
+like any other email. You can ask us to delete it, or to send you a copy of it,
+at any time by writing to the address below.
 
 If you are in a jurisdiction with statutory data rights — such as the GDPR in
-the EEA and UK, or the CCPA in California — those rights are satisfied by the
-fact that no personal data is collected, sold, or shared. **We do not sell or
-share personal information.**
+the EEA and UK, or the CCPA in California — you may exercise them by contacting
+us. **We do not sell or share personal information.**
 
 ---
 
@@ -111,9 +132,10 @@ the author's name, the license, and a link to the original file.
 ## Changes to this policy
 
 If this policy changes, the "last updated" date above will change with it. If a
-future version of Stumble ever collects information — for example, if landmark
-recommendations are sent to a server — this policy will be updated before that
-feature ships, and you will be asked to consent where the law requires it.
+future version of Stumble ever collects information automatically — for example,
+if it gained accounts, analytics, or a server that received your data — this
+policy will be updated before that feature ships, and you will be asked to
+consent where the law requires it.
 
 ---
 
