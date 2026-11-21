@@ -1,6 +1,7 @@
 # Stumble Support
 
-Stumble is a walking-tour app for exploring Manhattan landmarks on foot.
+Stumble is a walking-tour app for exploring city landmarks on foot, in two
+editions: Stumble (New York) and Stumble Seattle. This page covers both.
 
 If something isn't working, or a landmark is wrong, email
 **stumblenyc@gmail.com** and we'll get back to you.

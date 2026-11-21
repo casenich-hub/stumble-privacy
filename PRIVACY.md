@@ -1,9 +1,10 @@
 # Privacy Policy for Stumble
 
-**Last updated: 7 September 2026**
+**Last updated: 20 November 2026**
 
-Stumble is a walking-tour app for exploring Manhattan landmarks. This policy
-explains what the app does with your information.
+Stumble is a walking-tour app for exploring city landmarks on foot. It comes in
+two editions, Stumble (New York) and Stumble Seattle, which work the same way.
+This policy covers both, and explains what the apps do with your information.
 
 The short version: **Stumble does not have a server, does not have accounts, and
 does not collect or transmit your personal information.** Everything the app
